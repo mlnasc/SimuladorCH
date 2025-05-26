@@ -1,0 +1,28 @@
+Open Use License with Attribution and Special Conditions
+
+This software (including all HTML, CSS, JavaScript, and associated files) is made available free of charge under the following terms:
+
+1. **Freedom of Use**
+   You may use, copy, share, and incorporate this software into personal, educational, or commercial projects, provided you comply with the conditions below.
+
+2. **Mandatory Attribution**
+   Any use, redistribution, or integration (in whole or in part) must clearly include:
+   - The name of the author: **Manuel Nascimento**
+   - A visible and functional link to the original repository or web page:  
+     `https://github.com/your-username/simulador-ch`
+
+3. **No Unauthorized Modifications**
+   It is not permitted to modify the original content of this software and redistribute it as a new or official version without prior written authorization from the author.
+
+4. **Suggestions and Contributions**
+   Modifications and improvements are welcome, but only as suggestions via **pull requests** on the GitHub platform. The author reserves the right to accept or reject any contribution.
+
+5. **Preservation of References**
+   Embedded elements in the original code — such as attribution links, referral parameters in URLs (`ref=`), or author credits — **must not be removed or altered**, unless expressly authorized by the author.
+
+6. **Disclaimer of Warranty**
+   This software is provided "as is", without any warranty, express or implied, including but not limited to warranties of merchantability or fitness for a particular purpose.
+
+---
+
+© 2025 – Manuel Nascimento. All rights reserved under the terms of this license.
