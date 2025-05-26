@@ -1,0 +1,28 @@
+Licença de Uso Aberto com Atribuição e Condições Especiais
+
+O presente software (incluindo o código HTML, CSS, JavaScript e quaisquer outros ficheiros associados) é disponibilizado de forma gratuita sob os seguintes termos:
+
+1. **Liberdade de Uso**
+   É permitido utilizar, copiar, partilhar e incorporar este software em projetos pessoais, educacionais ou comerciais, desde que respeitadas as condições abaixo.
+
+2. **Atribuição Obrigatória**
+   Qualquer uso, redistribuição ou incorporação do software (total ou parcial) deve incluir de forma clara:
+   - O nome do autor: **Manuel Nascimento**
+   - Um link visível e funcional para o repositório ou página original:  
+     `https://github.com/teu-utilizador/simulador-ch`
+
+3. **Proibição de Alterações Diretas**
+   Não é permitido modificar o conteúdo original deste software e redistribuí-lo como se fosse uma nova versão oficial, sem autorização prévia por escrito do autor.
+
+4. **Sugestões de Alterações**
+   Alterações e melhorias são bem-vindas, **desde que submetidas como sugestões (pull requests)** através da plataforma GitHub. O autor reserva-se o direito de aceitar ou rejeitar qualquer sugestão.
+
+5. **Referências e Parâmetros Obrigatórios**
+   Os elementos incorporados no código original, como referências, links de atribuição, parâmetros de URL (`ref=`) e créditos embutidos, **não podem ser removidos nem alterados**, salvo autorização expressa do autor.
+
+6. **Ausência de Garantias**
+   Este software é fornecido “tal como está”, sem garantias de qualquer tipo, expressas ou implícitas, incluindo garantias de comercialização ou adequação a um propósito específico.
+
+---
+
+© 2025 – Manuel Nascimento. Todos os direitos reservados nos termos desta licença.
