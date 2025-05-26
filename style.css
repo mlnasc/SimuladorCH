@@ -1,0 +1,26 @@
+function simular() {
+  const montante = parseFloat(document.getElementById("montante").value);
+  const prazo = parseInt(document.getElementById("prazo").value);
+  const taxaAnual = parseFloat(document.getElementById("taxa").value);
+
+  const n = prazo * 12;
+  const r = taxaAnual / 100 / 12;
+  const prestacao = montante * r / (1 - Math.pow(1 + r, -n));
+
+  const resultado = `Prestação mensal: ${prestacao.toFixed(2)} €`;
+  document.getElementById("output").innerText = resultado;
+
+  // Gráfico simples com Chart.js
+  const ctx = document.getElementById('grafico').getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: Array.from({length: n}, (_, i) => i + 1),
+      datasets: [{
+        label: 'Prestação mensal',
+        data: Array(n).fill(prestacao),
+        borderWidth: 2
+      }]
+    }
+  });
+}
